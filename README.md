@@ -1,0 +1,4 @@
+- 👋 Hola, soy @JoanAntoniMorro
+- 👀 En mi tiempo libre estudio, juego a videojuegos y miro fútbol.
+- 🌱 Actualmente estoy aprendiendo desarrollo de página web.
+- ⚡ Dato curioso: Me gusta aprender cosas nuevas.
